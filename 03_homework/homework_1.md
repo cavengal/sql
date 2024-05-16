@@ -79,4 +79,4 @@ Please do not pick the exact same tables that I have already diagramed. For exam
 ## HOMEWORK DIAGRAM SUBMISSION
 I DIAGRAMED THE 'customer' AND 'customer_purchases' tables
 
-![homework_1.png] (https://github.com/cavengal/sql/blob/homework/03_homework/images/homework_1.png)
+![homework_1.png] (./03_homework/images/homework_1.png)
